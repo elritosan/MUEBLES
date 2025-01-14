@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\user\\documents\\5to\\aplicaciones\\2parcial\\trabajo_grupal\\muebles\\capapresentacion\\frmingresar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmingresar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmperfil_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmperfil_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18ED8613-830C-4F98-94FA-5CFB7A272ADD}|CapaBaseDatos\\CapaBaseDatos.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capabasedatos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18ED8613-830C-4F98-94FA-5CFB7A272ADD}|CapaBaseDatos\\CapaBaseDatos.csproj|solutionrelative:capabasedatos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmreporte - 6858.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmreporte - 6858.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmingresar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmingresar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frminiciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frminiciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmeditarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmeditarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeditarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmperfil_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmperfil_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18ED8613-830C-4F98-94FA-5CFB7A272ADD}|CapaBaseDatos\\CapaBaseDatos.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capabasedatos\\cloperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18ED8613-830C-4F98-94FA-5CFB7A272ADD}|CapaBaseDatos\\CapaBaseDatos.csproj|solutionrelative:capabasedatos\\cloperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C69703-068B-4691-942F-5DB3A8C820B5}|CapaLogica\\CapaLogica.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capalogica\\cllogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C69703-068B-4691-942F-5DB3A8C820B5}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\cllogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmeliminarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeliminarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmbuscarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmbuscarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmbuscarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmbuscarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmeliminarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmeliminarmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frminiciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frminiciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CapaPresentacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D15A92-4374-4067-8808-9307EB7ECFB7}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capaentidades\\clcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D15A92-4374-4067-8808-9307EB7ECFB7}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\clcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\frmcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capapresentacion\\classvalidarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7F828B-D1EC-470F-9690-D2234D2936B3}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\classvalidarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D15A92-4374-4067-8808-9307EB7ECFB7}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\capaentidades\\clmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D15A92-4374-4067-8808-9307EB7ECFB7}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\clmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CapaPresentacion\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\5TO\\MUEBLES\\capaentidades\\clcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmBuscarMueble.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmBuscarMueble.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmBuscarMueble.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmBuscarMueble.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmBuscarMueble.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAA3wG4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:47:34Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-18T07:49:37.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmReporte - 6858.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmReporte - 6858.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmReporte - 6858.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmReporte - 6858.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmReporte - 6858.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:40:33.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPerfil_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmPerfil_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmPerfil_Usuario.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmPerfil_Usuario.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmPerfil_Usuario.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwC0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:51:49.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmPerfil_Usuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmPerfil_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmPerfil_Usuario.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmPerfil_Usuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmPerfil_Usuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:50:53.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmCatalogo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmCatalogo.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCatalogo.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\Nueva carpeta\\MUEBLES\\CapaPresentacion\\FrmCatalogo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Nueva carpeta\\MUEBLES\\CapaPresentacion\\FrmCatalogo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:39:03.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmRegistrarse.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmRegistrarse.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmRegistrarse.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmRegistrarse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmRegistrarse.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:10:49.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmIniciarSesion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmIniciarSesion.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmIniciarSesion.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmIniciarSesion.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\FrmIniciarSesion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:49:16.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmIniciarSesion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmIniciarSesion.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmIniciarSesion.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmIniciarSesion.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmIniciarSesion.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:54:39.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClLogica.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaLogica\\ClLogica.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\ClLogica.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaLogica\\ClLogica.cs",
+              "RelativeToolTip": "CapaLogica\\ClLogica.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:40:26.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClOperaciones.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaBaseDatos\\ClOperaciones.cs",
+              "RelativeDocumentMoniker": "CapaBaseDatos\\ClOperaciones.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaBaseDatos\\ClOperaciones.cs",
+              "RelativeToolTip": "CapaBaseDatos\\ClOperaciones.cs",
+              "ViewState": "AQIAAKgBAAAAAAAAAAAwwLwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:44:03.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmRegistrarse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmRegistrarse.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmRegistrarse.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmRegistrarse.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmRegistrarse.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAAwOsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T00:12:57.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmIngresar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmIngresar.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmIngresar.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmIngresar.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmIngresar.cs",
+              "ViewState": "AQIAADEBAAAAAAAAAAAMwEUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:22:35.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmEditarMueble.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmEditarMueble.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarMueble.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmEditarMueble.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarMueble.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T21:00:59.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmEditarMueble.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmEditarMueble.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEditarMueble.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmEditarMueble.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmEditarMueble.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAwJ8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T21:09:58.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmIngresar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmIngresar.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmIngresar.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmIngresar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmIngresar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:31:37.892Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmMenu.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmMenu.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAjwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:49:40.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:10:23.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmEliminarMueble.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmEliminarMueble.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEliminarMueble.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmEliminarMueble.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmEliminarMueble.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:48:39.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmEliminarMueble.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmEliminarMueble.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmEliminarMueble.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\Nueva carpeta\\MUEBLES\\CapaPresentacion\\FrmEliminarMueble.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Nueva carpeta\\MUEBLES\\CapaPresentacion\\FrmEliminarMueble.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:20:02.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmBuscarMueble.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmBuscarMueble.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmBuscarMueble.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\Nueva carpeta\\MUEBLES\\CapaPresentacion\\FrmBuscarMueble.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Nueva carpeta\\MUEBLES\\CapaPresentacion\\FrmBuscarMueble.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:31:12.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCompra.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:24:22.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClConexion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaBaseDatos\\ClConexion.cs",
+              "RelativeDocumentMoniker": "CapaBaseDatos\\ClConexion.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaBaseDatos\\ClConexion.cs",
+              "RelativeToolTip": "CapaBaseDatos\\ClConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:41:12.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\Form1.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:03:22.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClCliente.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaEntidades\\ClCliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\ClCliente.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaEntidades\\ClCliente.cs*",
+              "RelativeToolTip": "CapaEntidades\\ClCliente.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:43:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmCompra.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmCompra.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmCompra.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\FrmCompra.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:24:24.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\Form1.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:39:18.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClMueble.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaEntidades\\ClMueble.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\ClMueble.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaEntidades\\ClMueble.cs",
+              "RelativeToolTip": "CapaEntidades\\ClMueble.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:43:28.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClassValidarCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\ClassValidarCorreo.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ClassValidarCorreo.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\ClassValidarCorreo.cs",
+              "RelativeToolTip": "CapaPresentacion\\ClassValidarCorreo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:00:27.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\APLICACIONES\\2PARCIAL\\TRABAJO_GRUPAL\\MUEBLES\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:22:44.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClCompra.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5TO\\MUEBLES\\CapaEntidades\\ClCompra.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MUEBLES\\CapaEntidades\\ClCompra.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\5TO\\MUEBLES\\CapaEntidades\\ClCompra.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MUEBLES\\CapaEntidades\\ClCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:39:43.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
